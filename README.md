@@ -1,2 +1,2 @@
 # scrapy
-Linkedin Scraper
+Advanced Linkedin Scraper using proxy servers.
